@@ -10,4 +10,4 @@ powerful, because from now on arma3.exe and arma3server.exe are mapped in large 
 try it out :)
 
 
-(for the less experienced users: download the file -> rigt click -> merge)
+(for the less experienced users: download the file 'GimmeMoarFrames.reg' -> right click -> merge)
